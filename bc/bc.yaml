@@ -6,7 +6,7 @@ spec:
   runPolicy: "Serial"
   source:
     git:
-      uri: ""
+      uri: "https://github.com/avishayx/ansible-operator"
   strategy:
     customStrategy:
       from:
