@@ -1,0 +1,4 @@
+- version: v1alpha1
+  group: avishay.okto.io
+  kind: HelloWorld
+  playbook: /Users/avishaysebban/Downloads/workshop/my-operators/hw-operator/hw.yaml
