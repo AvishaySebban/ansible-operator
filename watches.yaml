@@ -2,4 +2,4 @@
 - version: v1alpha1
   group: avishay.okto.io
   kind: HelloWorld
-  role: /opt/ansible/hw.yaml
+  playbook: /opt/ansible/hw.yaml
